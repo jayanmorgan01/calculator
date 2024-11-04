@@ -1,0 +1,19 @@
+.container {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  padding: 5px;
+}
+
+.row {
+    padding: 2px;
+}
+
+button 
+{
+    width: 30px;
+}
+
